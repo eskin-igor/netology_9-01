@@ -32,6 +32,8 @@
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 26. Сделайте скриншот
 
+## Решение 1
+
 ![](https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-01.PNG)
 
 ![](https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-02.PNG)
