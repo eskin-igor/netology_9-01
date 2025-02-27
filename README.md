@@ -32,13 +32,13 @@
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 26. Сделайте скриншот
 
-(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-01.PNG)
+[].(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-01.PNG)
 
-(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-02.PNG)
+[].(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-02.PNG)
 
-(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-03.PNG)
+[].(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-03.PNG)
 
-(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-04.PNG)
+[].(https://github.com/eskin-igor/netology_9-01/blob/main/screenshots_9-01/9-01-04.PNG)
 
 ### Требования к результату
 прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
